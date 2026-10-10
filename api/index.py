@@ -13,9 +13,9 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field, field_validator
 
-from brand_profile import discover_brand_profile, normalize_domain_input
-from Appmonitoring import run_app_monitoring_audit
-from detector import run_social_monitoring_audit
+from backend.brand_profile import discover_brand_profile, normalize_domain_input
+from backend.Appmonitoring import run_app_monitoring_audit
+from backend.detector import run_social_monitoring_audit
 
 app = FastAPI(title="Digital Risk Protection - Brand Profile API", version="1.0.0")
 
