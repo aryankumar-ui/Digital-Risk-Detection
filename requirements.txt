@@ -4,3 +4,7 @@ pydantic==2.4.2
 google-genai==0.1.1
 requests==2.31.0
 python-multipart==0.0.6
+beautifulsoup4
+duckduckgo-search
+starlette
+python-dotenv
