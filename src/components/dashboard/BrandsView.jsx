@@ -1710,11 +1710,37 @@ export const BrandsView = () => {
           body: JSON.stringify({ name, aliases, website: website || null }),
         }
       );
-      const result = await response.json();
+
+      const contentType = response.headers.get("content-type") || "";
+      const rawBody = await response.text();
+      let result = null;
+
+      if (rawBody && contentType.includes("application/json")) {
+        try {
+          result = JSON.parse(rawBody);
+        } catch {
+          throw new Error("The server returned invalid JSON.");
+        }
+      }
 
       if (!response.ok) {
-       throw new Error(result.detail || "Brand discovery failed");
-     }
+        const message =
+          result?.detail ||
+          result?.error?.message ||
+          result?.error ||
+          result?.message ||
+          `Server request failed (${response.status})`;
+
+        throw new Error(
+          typeof message === "string"
+            ? message
+            : `Server request failed (${response.status})`
+        );
+      }
+
+      if (rawBody && !contentType.includes("application/json")) {
+        throw new Error("Unexpected response format from the API.");
+      }
 
 const profile = result.profile;
 
@@ -2293,7 +2319,7 @@ console.log(
               <button type="button" onClick={() => setIsAddingBrand(false)} aria-label="Close" style={{ border: "1px solid #334155", background: "#1e293b", color: "#cbd5e1", borderRadius: 9, padding: 8, cursor: "pointer" }}><X size={17} /></button>
             </div>
             <form onSubmit={handleSaveBrand} style={{ display: "flex", flexDirection: "column", gap: 19 }}>
-              {saveError && <div role="alert" style={{ padding: "10px 12px", borderRadius: 8, background: "rgba(239,68,68,.12)", border: "1px solid rgba(239,68,68,.35)", color: "#fca5a5", fontSize: 13 }}>{saveError} Make sure the Python backend is running.</div>}
+              {saveError && <div role="alert" style={{ padding: "10px 12px", borderRadius: 8, background: "rgba(239,68,68,.12)", border: "1px solid rgba(239,68,68,.35)", color: "#fca5a5", fontSize: 13 }}>{saveError}</div>}
               <div>
                 <label style={{ display: "block", color: "#e2e8f0", fontSize: 13, fontWeight: 600, marginBottom: 8 }}>Company / Brand Name <span style={{ color: "#f87171" }}>*</span></label>
                 <input autoFocus required type="text" placeholder="e.g. Acme Corp" value={formData.name} onChange={(e) => setFormData({ ...formData, name: e.target.value })} style={{ width: "100%", boxSizing: "border-box", padding: "12px 13px", background: "#1e293b", border: "1px solid #334155", borderRadius: 10, color: "#f8fafc", outlineColor: "#6366f1", fontSize: 14 }} />

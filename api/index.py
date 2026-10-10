@@ -9,6 +9,7 @@ from typing import Optional
 sys.path.append(str(Path(__file__).parent.parent / "backend"))
 
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field, field_validator
 
@@ -69,7 +70,16 @@ def receive_brand_profile(profile: BrandProfileInput):
             payload["website"] or "",
         )
     except Exception as error:
-        raise HTTPException(status_code=500, detail=f"Brand discovery failed: {error}")
+        return JSONResponse(
+            status_code=500,
+            content={
+                "success": False,
+                "error": {
+                    "code": "BRAND_DISCOVERY_FAILED",
+                    "message": f"Brand discovery failed: {str(error)}"
+                }
+            }
+        )
 
     return {
         "received": True,
