@@ -94,6 +94,7 @@ def get_app_monitoring_data(brand: Optional[str] = Query(None)):
     root = Path(__file__).parent.parent / "backend"
 
     candidates = [
+        Path("/tmp") / f"{target}_brand_profile" / "brand_profile_discovery.json",
         root / f"{target}_brand_profile" / "brand_profile_discovery.json",
         root / f"{target}_discovery.json",
         root / "microsoft_discovery.json",
@@ -124,12 +125,18 @@ def get_social_monitoring_data(brand: Optional[str] = Query(None)):
     expected_folder_name = f"{slug}_brand_profile".lower()
 
     selected_file = None
-    for folder in root.iterdir():
-        if folder.is_dir() and folder.name.lower() == expected_folder_name:
-            disc_file = folder / "brand_profile_discovery.json"
-            if disc_file.exists():
-                selected_file = str(disc_file)
-                break
+    # Check /tmp first for newly generated profiles
+    tmp_disc_file = Path("/tmp") / expected_folder_name / "brand_profile_discovery.json"
+    if tmp_disc_file.exists():
+        selected_file = str(tmp_disc_file)
+        
+    if not selected_file:
+        for folder in root.iterdir():
+            if folder.is_dir() and folder.name.lower() == expected_folder_name:
+                disc_file = folder / "brand_profile_discovery.json"
+                if disc_file.exists():
+                    selected_file = str(disc_file)
+                    break
 
     if not selected_file:
         for f in root.glob("*.json"):

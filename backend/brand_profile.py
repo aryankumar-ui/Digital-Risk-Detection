@@ -749,11 +749,18 @@ def analyze_candidate(candidate: dict, profile: dict) -> dict:
 
 
 def make_company_folder(brand_name: str) -> Path:
-    """Create a safe, company-specific output folder in the current directory."""
+    """Create a safe, company-specific output folder."""
+    import os
     slug = re.sub(r"[^A-Za-z0-9._-]+", "_", (brand_name or "brand").strip()).strip("._-")
     if not slug:
         slug = "brand"
-    folder = Path.cwd() / f"{slug}_brand_profile"
+        
+    # Vercel is read-only except for /tmp.
+    if os.environ.get("VERCEL") or not os.access(Path.cwd(), os.W_OK):
+        folder = Path("/tmp") / f"{slug}_brand_profile"
+    else:
+        folder = Path.cwd() / f"{slug}_brand_profile"
+        
     folder.mkdir(parents=True, exist_ok=True)
     return folder
 
