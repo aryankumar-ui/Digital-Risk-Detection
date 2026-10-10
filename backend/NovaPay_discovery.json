@@ -1,0 +1,21 @@
+{
+  "brand_name": "NovaPay",
+  "brand_identifiers": {
+    "primary_domain": "novapay.com"
+  },
+  "mobile_apps": [
+    {
+      "app_id": "com.novapay.wallet",
+      "store": "google_play",
+      "app_name": "NovaPay Wallet",
+      "developer": "NovaPay Inc"
+    },
+    {
+      "app_id": "com.novapay.walletsupport",
+      "store": "google_play",
+      "app_name": "NovaPay Wallet Support",
+      "developer": "QuickSupport Global"
+    }
+  ],
+  "logo_downloads": []
+}

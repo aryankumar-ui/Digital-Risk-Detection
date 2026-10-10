@@ -1,0 +1,21 @@
+{
+  "brand_name": "Microsoft",
+  "brand_identifiers": {
+    "primary_domain": "microsoft.com"
+  },
+  "mobile_apps": [
+    {
+      "app_id": "com.microsoft.teams",
+      "store": "google_play",
+      "app_name": "Microsoft Teams",
+      "developer": "Microsoft Corporation"
+    },
+    {
+      "app_id": "com.microsoft.authenticator.fake",
+      "store": "google_play",
+      "app_name": "Microsoft Authenticator",
+      "developer": "Hacker Inc"
+    }
+  ],
+  "logo_downloads": []
+}

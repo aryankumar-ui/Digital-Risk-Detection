@@ -1,0 +1,213 @@
+{
+    "brand_name": "Amazon",
+    "official_website": {
+        "url": "https://amazon.com",
+        "domain": "amazon.com",
+        "title": null,
+        "description": null,
+        "verification_status": "user_supplied_reference_domain"
+    },
+    "official_logo": {
+        "logo_candidates": [],
+        "verification_status": "not_found"
+    },
+    "website_metadata": {
+        "title": null,
+        "description": null,
+        "fetch_status": "success"
+    },
+    "social_accounts": [],
+    "mobile_apps": [
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon Shopping - App Store",
+            "store_url": "https://apps.apple.com/us/app/amazon-shopping/id297606951",
+            "app_id": "297606951",
+            "developer": null,
+            "description": "Download Amazon Shopping by AMZN Mobile LLC on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Amazon Shopping.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon App - App Store",
+            "store_url": "https://apps.apple.com/ca/app/amazon/id297606951",
+            "app_id": "297606951",
+            "developer": null,
+            "description": "Download Amazon by AMZN Mobile LLC on the App Store. See screenshots, ratings and reviews, user tips and more apps like Amazon.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon Prime Video - App Store",
+            "store_url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333",
+            "app_id": "545519333",
+            "developer": null,
+            "description": "Download Amazon Prime Video by AMZN Mobile LLC on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Amazon Prime Video.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon - Shopping made easy - App Store",
+            "store_url": "https://apps.apple.com/na/app/amazon-shopping-made-easy/id297606951",
+            "app_id": "297606951",
+            "developer": null,
+            "description": "Download Amazon - Shopping made easy by AMZN Mobile LLC on the App Store. See screenshots, ratings and reviews, user tips and more games like Amazon - Shopping…",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon Shopping - App Store",
+            "store_url": "https://apps.apple.com/hk/app/amazon-shopping/id297606951",
+            "app_id": "297606951",
+            "developer": null,
+            "description": "Amazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to 100+ countries in as quickly as 3-5 days. Whether you're buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more benefits than shopping on ...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon Shopping 앱 - App Store",
+            "store_url": "https://apps.apple.com/kr/app/amazon-shopping/id297606951",
+            "app_id": "297606951",
+            "developer": null,
+            "description": "Amazon Shopping offers app-only benefits to help make shopping on Amazon faster and easier. Browse, view product details, read reviews, and purchase millions of products. Amazon delivers to 100+ countries in as quickly as 3-5 days. Whether you're buying gifts, reading reviews, tracking orders, scanning products, or just shopping, the Amazon Shopping app offers more benefits than shopping on ...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon‑App - App Store",
+            "store_url": "https://apps.apple.com/de/app/amazon/id348712880",
+            "app_id": "348712880",
+            "developer": null,
+            "description": "Lade „Amazon\" von Amazon im App Store herunter. Sieh dir Bildschirmfotos, Bewertungen und Rezensionen, Benutzertipps und weitere Apps wie „Amazon\" an.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Amazon Kindle: Reading App App - App Store",
+            "store_url": "https://apps.apple.com/us/app/amazon-kindle-reading-app/id302584613",
+            "app_id": "302584613",
+            "developer": null,
+            "description": "Explore Amazon Charts best sellers and titles across genres like romance, science fiction, children's books, self-help, religion, nonfiction, and more—and try any book with a free sample straight from the Kindle app. • Kindle Unlimited members can enjoy unlimited reading and listening, with the freedom to explore over 1 million titles ...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "AMZN Mobile LLC for iPhone - App Store",
+            "store_url": "https://apps.apple.com/us/developer/amzn-mobile-llc/id297606954",
+            "app_id": "297606954",
+            "developer": null,
+            "description": "Download apps by AMZN Mobile LLC, including Amazon Prime Video, Amazon Music: Songs & Podcasts, JWO Store Manager, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Amazon\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        }
+    ],
+    "brand_identifiers": {
+        "primary_domain": "amazon.com",
+        "known_aliases": [],
+        "email_domains_found_on_website": [],
+        "known_publishers": [
+            "Verified Publisher Name"
+        ],
+        "known_social_handles": {
+            "Instagram": [
+                "official_handle"
+            ],
+            "X": [
+                "official_handle"
+            ]
+        },
+        "known_apps": [
+            {
+                "store": "Google Play",
+                "app_id": "verified.package.id",
+                "developer": "Verified Publisher Name"
+            },
+            {
+                "store": "Apple App Store",
+                "app_id": "123456789",
+                "developer": "Verified Publisher Name"
+            }
+        ],
+        "other_identifiers": []
+    },
+    "verification_evidence": {
+        "user_supplied_reference_domain": "amazon.com",
+        "discovered_domain_matches_reference": true,
+        "official_website_outbound_links_found": 0,
+        "note": "A user-supplied domain is a reference point, not independent proof. Cross-links are supporting evidence, not a guarantee."
+    },
+    "verification_note": "Search results and extracted assets are candidates, not confirmed official assets. Review and verify ownership before using them for threat detection.",
+    "logo_downloads": [],
+    "trust_assessment": {
+        "overall_status": "PARTIALLY_VERIFIED - ASSETS STILL NEED REVIEW",
+        "trusted_yes_or_no": "NO - NOT FULLY VERIFIED",
+        "trust_score": null,
+        "reason": "The script can check domain matches and official-site cross-links, but cannot independently prove legal ownership or that every downloaded logo/listing is authentic.",
+        "reference_domain": "amazon.com",
+        "website_domain_found": "amazon.com",
+        "website_fetch_status": "success",
+        "logo_candidates_found": 0,
+        "social_candidates_found": 0,
+        "social_accounts_linked_from_reference_website": 0,
+        "app_candidates_found": 9,
+        "apps_linked_from_reference_website": 0,
+        "signals": [
+            {
+                "signal": "Website matches user-supplied reference domain",
+                "result": "MATCH",
+                "reference_domain": "amazon.com",
+                "note": "The reference domain must have been checked independently by the user."
+            },
+            {
+                "signal": "Website reachable and metadata extracted",
+                "result": "PASS"
+            },
+            {
+                "signal": "Logo source hosted on reference domain",
+                "result": "CHECK_PER_LOGO",
+                "details": []
+            },
+            {
+                "signal": "Social accounts cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 0
+            },
+            {
+                "signal": "App store listings cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 9
+            },
+            {
+                "signal": "Legal ownership / publisher identity independently verified",
+                "result": "NOT_CHECKED"
+            }
+        ],
+        "recommended_checks": [
+            "Enter only a domain independently confirmed from company-owned documentation, official packaging, or trusted corporate records.",
+            "Review every logo file and confirm it matches the logo on the confirmed website.",
+            "Treat social/app links published on the reference website as supporting evidence and verify the exact profile or listing.",
+            "Check app publisher identity and developer links in the official app store listing.",
+            "Do not label an asset fully trusted until a human reviewer records the evidence and approves it."
+        ]
+    },
+    "output_folder": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Amazon_brand_profile"
+}

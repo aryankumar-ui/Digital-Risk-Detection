@@ -1,0 +1,115 @@
+{
+    "brand_name": "whastsapp",
+    "official_website": {
+        "url": "https://web.whatsapp.com/",
+        "domain": "web.whatsapp.com",
+        "title": "WhatsApp Web",
+        "description": "Log in to WhatsApp Web for simple, reliable and private messaging on your desktop. Send and receive messages and files …",
+        "verification_status": "user_supplied_reference_domain"
+    },
+    "official_logo": {
+        "logo_candidates": [],
+        "verification_status": "not_found"
+    },
+    "website_metadata": {
+        "title": null,
+        "description": null,
+        "fetch_status": "failed"
+    },
+    "social_accounts": [],
+    "mobile_apps": [],
+    "brand_identifiers": {
+        "primary_domain": "web.whatsapp.com",
+        "known_aliases": [
+            "asfds"
+        ],
+        "email_domains_found_on_website": [],
+        "known_publishers": [
+            "Verified Publisher Name"
+        ],
+        "known_social_handles": {
+            "Instagram": [
+                "official_handle"
+            ],
+            "X": [
+                "official_handle"
+            ]
+        },
+        "known_apps": [
+            {
+                "store": "Google Play",
+                "app_id": "verified.package.id",
+                "developer": "Verified Publisher Name"
+            },
+            {
+                "store": "Apple App Store",
+                "app_id": "123456789",
+                "developer": "Verified Publisher Name"
+            }
+        ],
+        "other_identifiers": []
+    },
+    "verification_evidence": {
+        "user_supplied_reference_domain": "web.whatsapp.com",
+        "discovered_domain_matches_reference": true,
+        "official_website_outbound_links_found": 0,
+        "note": "A user-supplied domain is a reference point, not independent proof. Cross-links are supporting evidence, not a guarantee."
+    },
+    "verification_note": "Search results and extracted assets are candidates, not confirmed official assets. Review and verify ownership before using them for threat detection.",
+    "logo_downloads": [],
+    "trust_assessment": {
+        "overall_status": "UNVERIFIED - REFERENCE DOMAIN REQUIRED",
+        "trusted_yes_or_no": "NO - NOT FULLY VERIFIED",
+        "trust_score": null,
+        "reason": "The script can check domain matches and official-site cross-links, but cannot independently prove legal ownership or that every downloaded logo/listing is authentic.",
+        "reference_domain": "web.whatsapp.com",
+        "website_domain_found": "web.whatsapp.com",
+        "website_fetch_status": "failed",
+        "logo_candidates_found": 0,
+        "social_candidates_found": 0,
+        "social_accounts_linked_from_reference_website": 0,
+        "app_candidates_found": 0,
+        "apps_linked_from_reference_website": 0,
+        "signals": [
+            {
+                "signal": "Website matches user-supplied reference domain",
+                "result": "MATCH",
+                "reference_domain": "web.whatsapp.com",
+                "note": "The reference domain must have been checked independently by the user."
+            },
+            {
+                "signal": "Website reachable and metadata extracted",
+                "result": "NOT_CONFIRMED"
+            },
+            {
+                "signal": "Logo source hosted on reference domain",
+                "result": "CHECK_PER_LOGO",
+                "details": []
+            },
+            {
+                "signal": "Social accounts cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 0
+            },
+            {
+                "signal": "App store listings cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 0
+            },
+            {
+                "signal": "Legal ownership / publisher identity independently verified",
+                "result": "NOT_CHECKED"
+            }
+        ],
+        "recommended_checks": [
+            "Enter only a domain independently confirmed from company-owned documentation, official packaging, or trusted corporate records.",
+            "Review every logo file and confirm it matches the logo on the confirmed website.",
+            "Treat social/app links published on the reference website as supporting evidence and verify the exact profile or listing.",
+            "Check app publisher identity and developer links in the official app store listing.",
+            "Do not label an asset fully trusted until a human reviewer records the evidence and approves it."
+        ]
+    },
+    "output_folder": "C:\\Users\\Aryan\\OneDrive\\Desktop\\hack\\backend\\whastsapp_brand_profile"
+}

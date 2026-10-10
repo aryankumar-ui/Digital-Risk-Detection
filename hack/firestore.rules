@@ -1,0 +1,29 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Users can read/write their own document and any documents in subcollections
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      
+      match /{document=**} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+    
+    // Admin Invitations
+    match /adminInvitations/{invitationId} {
+      // Admins can read and write all invitations
+      allow read, write: if request.auth != null && request.auth.token.admin == true;
+      // Also allow reading if you need to fetch specific token/invite, but typical accept flow
+      // uses the Cloud Function to avoid exposing raw docs.
+    }
+    
+    // Mail collection (for Trigger Email Extension)
+    match /mail/{mailId} {
+      // Only admins can write to the mail collection to send invites
+      allow write: if request.auth != null && request.auth.token.admin == true;
+      allow read: if false;
+    }
+  }
+}

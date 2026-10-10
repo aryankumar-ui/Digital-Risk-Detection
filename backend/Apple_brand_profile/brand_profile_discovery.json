@@ -1,0 +1,637 @@
+{
+    "brand_name": "Apple",
+    "official_website": {
+        "url": "https://www.apple.com/",
+        "domain": "apple.com",
+        "title": "Apple",
+        "description": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, and expert device support.",
+        "verification_status": "user_supplied_reference_domain"
+    },
+    "official_logo": {
+        "logo_candidates": [
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/logos/apple-watch-ultra-4/a/promo_logo_apple_watch_ultra_4__bc6ish8cjaeq_large.png",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/logos/apple-card/a/promo_logo_apple_card__28vxrcexz0ia_large.png",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202610011401",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/iphone-18-pro/a/hero_iphone_18_pro__fqe1motd0ymy_large.jpg",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/logos/apple-upgrade/a/promo_logo_apple_upgrade__lwuohffdzjem_large.png",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/logos/ipad-air-m4/a/promo_logo_ipad_air__dqdj4ni03quu_large.png",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large.jpg",
+                "verification_status": "unverified_candidate"
+            },
+            {
+                "image_url": "https://www.apple.com/v/homepage/images/logos/apple-watch-series-12/a/hero_logo_apple_watch_series_12__eze8r897c5me_large.png",
+                "verification_status": "unverified_candidate"
+            }
+        ],
+        "verification_status": "unverified_candidate"
+    },
+    "website_metadata": {
+        "title": "Apple",
+        "description": null,
+        "fetch_status": "success"
+    },
+    "social_accounts": [
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www.instagram.com/apple/",
+            "name": "apple • Instagram photos and videos",
+            "handle": "apple",
+            "bio": "38M Followers, 10 Following, 1,400 Posts - @apple on Instagram: \"Everyone has a story to tell. #ShotoniPhone\"",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www-fallback.instagram.com/vipstore_op/",
+            "name": "VipStore | Toda linha Apple | JBL (@vipstore_op) • Instagram ...",
+            "handle": "vipstore_op",
+            "bio": "35K Followers, 77 Following, 131 Posts - VipStore | Toda linha Apple | JBL (@vipstore_op) on Instagram: \"📱 iPhones lacrados e seminovos com 1 ano de garantia 🛡️ Acessórios premium com garantia 👇 Faça seu upgrade agora\"",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www.instagram.com/helloapple/",
+            "name": "Hello Apple (@helloapple) • Instagram photos and videos",
+            "handle": "helloapple",
+            "bio": "690K Followers, 9 Following, 82 Posts - Hello Apple (@helloapple) on Instagram: \"Our stories, and yours.\"",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www.instagram.com/?hl=en",
+            "name": "Instagram",
+            "handle": null,
+            "bio": "Create an account or log in to Instagram - Share what you're into with the people who get you.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www.instagram.com/popular/apple-store-mumbai/",
+            "name": "Apple Store Mumbai • 4.9K reels on Instagram",
+            "handle": "popular",
+            "bio": "Watch short videos about apple store mumbai from people around the world. Apples, Mumbai, Appls And More...",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/Apple",
+            "name": "Apple (@Apple) / X",
+            "handle": "Apple",
+            "bio": "The latest posts from @Apple",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/Apple/status/1965478073152995503",
+            "name": "Apple on X: \"The wait is over. Introducing the new iPhone 17 Pro ...",
+            "handle": "Apple",
+            "bio": "The wait is over. Introducing the new iPhone 17 Pro, iPhone Air, iPhone 17, Apple Watch Ultra 3, Apple Watch Series 11, Apple Watch SE 3, AirPods Pro 3, and more.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/i/trending/2108444517099511868",
+            "name": "Apple Cuts iPhone 18 Pro Component Orders Amid Soft Demand",
+            "handle": "i",
+            "bio": "Suppliers reported to Nikkei Asia that Apple reduced October shipments for the iPhone 18 Pro and Pro Max by 15 to 20 percent since early September. Higher prices, up about $100 from last year, and rising memory costs made the phones feel too expensive for many buyers. Even as enthusiasts share photos of new colors like Glacier and Burgundy, leaks show the budget iPhone 18e with modest upgrades ...",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/Apple/highlights",
+            "name": "Highlights by Apple (@Apple) / X",
+            "handle": "Apple",
+            "bio": "The wait is over. Introducing the new iPhone 17 Pro, iPhone Air, iPhone 17, Apple Watch Ultra 3, Apple Watch Series 11, Apple Watch SE 3, AirPods Pro 3, and more.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/applesupport",
+            "name": "Apple Support (@AppleSupport) / X",
+            "handle": "applesupport",
+            "bio": "Tips and how-tos—straight from Apple.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/company/apple/life/4d59999b-9f19-4f2d-9445-148e539d80ec",
+            "name": "Apple: Culture | LinkedIn",
+            "handle": "company",
+            "bio": "Apple | 18,464,411 followers on LinkedIn. We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://in.linkedin.com/jobs/apple-internship-jobs",
+            "name": "Apple Internship Jobs in India (105 Open Roles) | LinkedIn",
+            "handle": "jobs",
+            "bio": "Today's top 105 Apple Internship jobs in India. Leverage your professional network, and get hired. New Apple Internship jobs added daily.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/company/apple/jobs/",
+            "name": "Apple: Jobs | LinkedIn",
+            "handle": "company",
+            "bio": "Apple | 18,466,185 followers on LinkedIn. We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/in/david-tom-150a234",
+            "name": "David Tom - Apple | LinkedInJenny Voges - Senior Technical Recruiter at Apple | LinkedInGeorge Stathakopoulos - Vice President of Corporate ...",
+            "handle": "in",
+            "bio": "View David Tom’s profile on LinkedIn, a professional community of 1 billion members. As a Technical Recruiter at Apple, I manage the full-cycle recruitment process for various engineering roles, from sourcing and screening to interviewing and negotiating offers. Experienced Vice President Information Security with a demonstrated history of working in the consumer electronics industry. Skilled in Scalability, Enterprise Software, Culture Change, Online...",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/in/jennyvoges",
+            "name": "Jenny Voges - Senior Technical Recruiter at Apple | LinkedIn",
+            "handle": "in",
+            "bio": "As a Technical Recruiter at Apple, I manage the full-cycle recruitment process for various engineering roles, from sourcing and screening to interviewing and negotiating offers.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "TikTok",
+            "platform_url": "https://newsroom.tiktok.com/apple-music-and-tiktok-introduce-new-play-full-song-experience-bringing-seamless-music-discovery-and-listening-together?lang=en",
+            "name": "Apple Music and TikTok Introduce New 'Play Full Song ...",
+            "handle": "apple-music-and-tiktok-introduce-new-play-full-song-experience-bringing-seamless-music-discovery-and-listening-together",
+            "bio": "Mar 11, 2026 · With the new ' Play Full Song' feature, Apple Music subscribers can now enjoy full-length tracks that they discover on TikTok, without ever leaving the TikTok app. Music discovery has always been at the heart of TikTok.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "TikTok",
+            "platform_url": "https://livecenter.tiktok.com/?lang=ja-JP",
+            "name": "ログイン | TikTok",
+            "handle": null,
+            "bio": "Log in or sign up for an account on TikTok. Start watching to discover real people and real videos that will make your day.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "TikTok",
+            "platform_url": "https://shop.tiktok.com/us/pdp/drizzilicious-apple-pie-mini-rice-cakes-6-pack-vegan-gf/1732495605783171863",
+            "name": "Drizzilicious Apple Pie Mini Rice Cakes 6 Pack - TikTok Shop",
+            "handle": "us",
+            "bio": "Enjoy sweet, crunchy mini rice cakes with the warm, comforting flavor of apple pie and a delicious drizzle. This 6-pack is perfect for stocking up on your favorite snack and enjoying it anytime.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "TikTok",
+            "platform_url": "https://livecenter.tiktok.com/producer?enter_from=webapp",
+            "name": "Log in | TikTok",
+            "handle": "producer",
+            "bio": "Log in or sign up for an account on TikTok. Start watching to discover real people and real videos that will make your day.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "TikTok",
+            "platform_url": "https://ads.tiktok.com/resources/help/article/about-skan-4-0-and-tiktok?lang=en",
+            "name": "SKAN 4.0 and TikTok | TikTok For Business",
+            "handle": "resources",
+            "bio": "Apple replaces the two-digit campaign identification structure with a four-digit structure called \"source_id.\" These IDs are used in TikTok's back-end to help attribute user engagements in your app to their interactions with specific TikTok campaigns.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        }
+    ],
+    "mobile_apps": [
+        {
+            "store": "Google Play",
+            "app_name": "Android Apps by Apple on Google Play",
+            "store_url": "https://play.google.com/store/apps/developer?id=Apple&hl=en-US",
+            "app_id": "Apple",
+            "developer": null,
+            "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Apple Music - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details/?id=com.apple.android.music&hl=en-US",
+            "app_id": "com.apple.android.music",
+            "developer": null,
+            "description": "Apple Music is all about the music, with the highest audio quality; exclusive, in-depth content and unparalleled access to the artists you love–all ad-free. • Get unlimited access to over 100...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Apple TV: Shows, Movies & More - Apps on Google PlayAndroid Apps on Google PlayMove to iOS - Apps on Google PlayApple Music - Apps en Google PlayApple Bank Mobile Banking - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv&hl=en",
+            "app_id": "com.apple.atve.androidtv.appletv",
+            "developer": null,
+            "description": "Apple TV is the home of exclusive Apple Original shows and movies, Formula 1®, MLS, Friday Night Baseball, and all the best entertainment from your favorite streaming services—all in one place. Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices. Transfer your data securely from Android to iPhone and iPad. Apple Music es sinónimo de música con la mejor calidad de audio, contenido exclusivo y detallado, y un acceso incomparable a los artistas que te encantan. Todo sin anuncios. • Obtén acceso... Get the most out of the mobile banking features offered to you by Apple Bank. Signing up is fast and once you’re logged in, you will have access to these benefits: • Transfer money • Deposit...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Android Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/?hl=en-US",
+            "app_id": null,
+            "developer": null,
+            "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Move to iOS - Apps on Google PlayApple Music - Apps en Google PlayApple Bank Mobile Banking - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.apple.movetoios&hl=en-US",
+            "app_id": "com.apple.movetoios",
+            "developer": null,
+            "description": "Transfer your data securely from Android to iPhone and iPad. Apple Music es sinónimo de música con la mejor calidad de audio, contenido exclusivo y detallado, y un acceso incomparable a los artistas que te encantan. Todo sin anuncios. • Obtén acceso... Get the most out of the mobile banking features offered to you by Apple Bank. Signing up is fast and once you’re logged in, you will have access to these benefits: • Transfer money • Deposit...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Apple Music - Apps en Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.apple.android.music&hl=es-MX",
+            "app_id": "com.apple.android.music",
+            "developer": null,
+            "description": "Apple Music es sinónimo de música con la mejor calidad de audio, contenido exclusivo y detallado, y un acceso incomparable a los artistas que te encantan. Todo sin anuncios. • Obtén acceso...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Apple Bank Mobile Banking - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.AppleBank.AppleBankOnline&hl=en-US",
+            "app_id": "com.AppleBank.AppleBankOnline",
+            "developer": null,
+            "description": "Get the most out of the mobile banking features offered to you by Apple Bank. Signing up is fast and once you’re logged in, you will have access to these benefits: • Transfer money • Deposit...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Music Genres and Categories on Apple Music - iTunes",
+            "store_url": "https://itunes.apple.com/us/",
+            "app_id": null,
+            "developer": null,
+            "description": "Browse Apple Music by category. Listen to genres including Pop, R&B, Country and more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "iTunes - Apple",
+            "store_url": "https://itunes.apple.com/lookup?id=443904275",
+            "app_id": null,
+            "developer": null,
+            "description": "Available all around the world on mobile, desktop, and Apple Watch, the LINE platform continues to grow, always offering new services and features that make your life more fun and convenient.\\n\\n Messages, Voice calls, Video calls.\\nEnjoy voice and video calls and exchanging messages with your LINE friends.\\n\\n LINE stickers, emojis, and themes ...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "bag.itunes.apple.com",
+            "store_url": "https://bag.itunes.apple.com/bag.xml?deviceClass=...&format=json",
+            "app_id": null,
+            "developer": null,
+            "description": "aak-reengagement-token-fetching-noise-ratio0.013accountSummaryhttps://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/accountSummaryadvancedSearchhttps://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/advancedSearch?cc=usampMusicAPIDomainscatalogamp-api-edge.music.apple.comconcernsamp-api.music.apple.comconcertsHubamp-api.music.apple ...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "init.itunes.apple.com",
+            "store_url": "https://init.itunes.apple.com/WebObjects/MZInit.woa/wa/fpsCertificate",
+            "app_id": null,
+            "developer": null,
+            "description": "Apple Inc1 0 U FPS10 Ÿ0 *†H†÷ 0 ‰ ªgÒ 2Ý ÑÔÊ@Þ RWÞA =mÉÛœÿy [ý ^˜k(xÅ Ñ, *U)¢±›A+oçk \\ g,ùv© ˆÑoèÃ3€ó“¯Ø Ú¨ðºø 5Î*UÉ©F.? ó¨S Ô _È´æ… 2%™¦ã kÅ “ç³8 àñÍ =üÇ›¾O £‚ 0‚ 0 U óú±ôÖ¤ä9J ŸåmØÒˆ›lG70 U ÿ 00 U # 0 € cäGTË…qYF,ƒ¬ÌD1dg ,¾0 â U Ú0 ×0 ...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Apple Inc. - Volume Purchase Program",
+            "store_url": "https://vpp-app.itunes.apple.com/",
+            "app_id": null,
+            "developer": null,
+            "description": "Apple's Volume Purchase Program simplifies app and book purchases for businesses and educational institutions through Apple Business and School Manager platforms.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "iTunes Store - Apple Inc.",
+            "store_url": "https://vpp.itunes.apple.com/WebObjects/MZFinance.woa/wa/accountSummary",
+            "app_id": null,
+            "developer": null,
+            "description": "Volume Purchase Program Sign in to view account information Please enter your Apple Account and password and click Account Info.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Apple Inc.",
+            "store_url": "https://su.itunes.apple.com/",
+            "app_id": null,
+            "developer": null,
+            "description": "Descubre productos y servicios de Apple, incluyendo iTunes, App Store y más.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"Apple\" site:itunes.apple.com",
+            "linked_from_reference_website": false
+        }
+    ],
+    "brand_identifiers": {
+        "primary_domain": "apple.com",
+        "known_aliases": [
+            "Apple Support",
+            "iCloud"
+        ],
+        "email_domains_found_on_website": [],
+        "known_publishers": [
+            "Verified Publisher Name"
+        ],
+        "known_social_handles": {
+            "Instagram": [
+                "official_handle"
+            ],
+            "X": [
+                "official_handle"
+            ]
+        },
+        "known_apps": [
+            {
+                "store": "Google Play",
+                "app_id": "verified.package.id",
+                "developer": "Verified Publisher Name"
+            },
+            {
+                "store": "Apple App Store",
+                "app_id": "123456789",
+                "developer": "Verified Publisher Name"
+            }
+        ],
+        "other_identifiers": []
+    },
+    "verification_evidence": {
+        "user_supplied_reference_domain": "apple.com",
+        "discovered_domain_matches_reference": true,
+        "official_website_outbound_links_found": 4,
+        "note": "A user-supplied domain is a reference point, not independent proof. Cross-links are supporting evidence, not a guarantee."
+    },
+    "verification_note": "Search results and extracted assets are candidates, not confirmed official assets. Review and verify ownership before using them for threat detection.",
+    "logo_downloads": [
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/logos/apple-watch-ultra-4/a/promo_logo_apple_watch_ultra_4__bc6ish8cjaeq_large.png",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_01.png",
+            "content_type": "image/png",
+            "bytes": 2141
+        },
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/logos/apple-card/a/promo_logo_apple_card__28vxrcexz0ia_large.png",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_02.png",
+            "content_type": "image/png",
+            "bytes": 2083
+        },
+        {
+            "source_url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202610011401",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_03.png",
+            "content_type": "image/png",
+            "bytes": 11847
+        },
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/iphone-18-pro/a/hero_iphone_18_pro__fqe1motd0ymy_large.jpg",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_04.jpg",
+            "content_type": "image/jpeg",
+            "bytes": 65600
+        },
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/logos/apple-upgrade/a/promo_logo_apple_upgrade__lwuohffdzjem_large.png",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_05.png",
+            "content_type": "image/png",
+            "bytes": 3298
+        },
+        {
+            "source_url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_06.png",
+            "content_type": "image/png",
+            "bytes": 424
+        },
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/logos/ipad-air-m4/a/promo_logo_ipad_air__dqdj4ni03quu_large.png",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_07.png",
+            "content_type": "image/png",
+            "bytes": 3106
+        },
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large.jpg",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_08.jpg",
+            "content_type": "image/jpeg",
+            "bytes": 34867
+        },
+        {
+            "source_url": "https://www.apple.com/v/homepage/images/logos/apple-watch-series-12/a/hero_logo_apple_watch_series_12__eze8r897c5me_large.png",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile\\logos\\logo_09.png",
+            "content_type": "image/png",
+            "bytes": 3789
+        }
+    ],
+    "trust_assessment": {
+        "overall_status": "PARTIALLY_VERIFIED - ASSETS STILL NEED REVIEW",
+        "trusted_yes_or_no": "NO - NOT FULLY VERIFIED",
+        "trust_score": null,
+        "reason": "The script can check domain matches and official-site cross-links, but cannot independently prove legal ownership or that every downloaded logo/listing is authentic.",
+        "reference_domain": "apple.com",
+        "website_domain_found": "apple.com",
+        "website_fetch_status": "success",
+        "logo_candidates_found": 9,
+        "social_candidates_found": 20,
+        "social_accounts_linked_from_reference_website": 0,
+        "app_candidates_found": 14,
+        "apps_linked_from_reference_website": 0,
+        "signals": [
+            {
+                "signal": "Website matches user-supplied reference domain",
+                "result": "MATCH",
+                "reference_domain": "apple.com",
+                "note": "The reference domain must have been checked independently by the user."
+            },
+            {
+                "signal": "Website reachable and metadata extracted",
+                "result": "PASS"
+            },
+            {
+                "signal": "Logo source hosted on reference domain",
+                "result": "CHECK_PER_LOGO",
+                "details": [
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/logos/apple-watch-ultra-4/a/promo_logo_apple_watch_ultra_4__bc6ish8cjaeq_large.png",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/logos/apple-card/a/promo_logo_apple_card__28vxrcexz0ia_large.png",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202610011401",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/iphone-18-pro/a/hero_iphone_18_pro__fqe1motd0ymy_large.jpg",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/logos/apple-upgrade/a/promo_logo_apple_upgrade__lwuohffdzjem_large.png",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/home/cj/images/tv-gallery/logo_hero_light__d7t8cya4x26a_small.png",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/logos/ipad-air-m4/a/promo_logo_ipad_air__dqdj4ni03quu_large.png",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/apple-card/a/promo_apple_card__d8xz4kd4evwy_large.jpg",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    },
+                    {
+                        "image_url": "https://www.apple.com/v/homepage/images/logos/apple-watch-series-12/a/hero_logo_apple_watch_series_12__eze8r897c5me_large.png",
+                        "source_domain": "apple.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    }
+                ]
+            },
+            {
+                "signal": "Social accounts cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 20
+            },
+            {
+                "signal": "App store listings cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 14
+            },
+            {
+                "signal": "Legal ownership / publisher identity independently verified",
+                "result": "NOT_CHECKED"
+            }
+        ],
+        "recommended_checks": [
+            "Enter only a domain independently confirmed from company-owned documentation, official packaging, or trusted corporate records.",
+            "Review every logo file and confirm it matches the logo on the confirmed website.",
+            "Treat social/app links published on the reference website as supporting evidence and verify the exact profile or listing.",
+            "Check app publisher identity and developer links in the official app store listing.",
+            "Do not label an asset fully trusted until a human reviewer records the evidence and approves it."
+        ]
+    },
+    "output_folder": "C:\\Users\\Asus\\Desktop\\Bytexl project\\hack\\backend\\Apple_brand_profile"
+}

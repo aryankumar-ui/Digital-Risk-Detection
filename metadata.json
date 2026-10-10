@@ -1,0 +1,6 @@
+{
+  "name": "RiskShield AI — Digital Risk Protection Platform",
+  "description": "AI-powered Digital Risk Protection platform to detect brand impersonation, fake social profiles, and unauthorized mobile applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

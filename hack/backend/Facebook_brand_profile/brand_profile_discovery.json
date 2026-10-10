@@ -1,0 +1,459 @@
+{
+    "brand_name": "facebook",
+    "official_website": {
+        "url": "https://facebook.com",
+        "domain": "facebook.com",
+        "title": null,
+        "description": null,
+        "verification_status": "user_supplied_reference_domain"
+    },
+    "official_logo": {
+        "logo_candidates": [],
+        "verification_status": "not_found"
+    },
+    "website_metadata": {
+        "title": null,
+        "description": null,
+        "fetch_status": "failed"
+    },
+    "social_accounts": [
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www.instagram.com/facebook/",
+            "name": "Facebook (@facebook) • Instagram photos and videos",
+            "handle": "facebook",
+            "bio": "8M Followers, 44 Following, 1,653 Posts - See Instagram photos and videos from Facebook (@facebook)",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://www.instagram.com/",
+            "name": "Instagram",
+            "handle": null,
+            "bio": "Create an account or log in to Instagram - Share what you're into with the people who get you.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://about.instagram.com/blog/announcements/instagram-tv-app?locale=en_US",
+            "name": "Introducing Instagram for TV: Watch Reels | About Instagram",
+            "handle": "blog",
+            "bio": "Feb 24, 2026 · Instagram for TV brings Reels to your living room. Learn how to install, explore channels, and enjoy safe, shared viewing with family and friends.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://privacycenter.instagram.com/dialog/is-facebook-listening-to-my-conversation/",
+            "name": "Are Facebook and Instagram listening to your conversations ...",
+            "handle": "dialog",
+            "bio": "Are Facebook and Instagram listening to your conversations? How can you delete your information?",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Instagram",
+            "platform_url": "https://about.instagram.com/blog/announcements/instagram-joins-facebook",
+            "name": "Instagram Joins Facebook | Instagram BlogInstagramHelp Center",
+            "handle": "blog",
+            "bio": "Apr 9, 2012 · Today, we couldn’t be happier to announce that Instagram has agreed to be acquired by Facebook. Privacy Center Make the privacy choices that are right for you. Learn how to manage and control your privacy on Facebook, Instagram, Messenger, and other Meta Products. Learn how to share posts, stories, and reels from your Instagram professional profile to your Facebook Page.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Facebook",
+            "platform_url": "https://www.facebook.com/",
+            "name": "Facebook",
+            "handle": null,
+            "bio": "Connect and share with friends, family, and the world on Facebook.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Facebook",
+            "platform_url": "https://www.facebook.com/𝑪𝒐𝒎𝒑𝒂𝒏𝒚-�%",
+            "name": "Facebook",
+            "handle": "𝑪𝒐𝒎𝒑𝒂𝒏𝒚-�%",
+            "bio": "Connect with friends, share updates, and discover content on Facebook.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Facebook",
+            "platform_url": "https://l.facebook.com/facebook/",
+            "name": "Facebook",
+            "handle": "facebook",
+            "bio": "Facebook is a platform to connect, share updates, and discover content with friends, family, and communities.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "Facebook",
+            "platform_url": "https://l.facebook.com/r.php/?display=page",
+            "name": "Facebook",
+            "handle": "r.php",
+            "bio": "Connect with friends, family, and communities on Facebook, the world's largest social media platform.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/facebook",
+            "name": "Facebook (@facebook) / X",
+            "handle": "facebook",
+            "bio": "There’s community on Facebook Groups for every thing that makes Stephen everything: Station House Reading Series, LGBTQ Gaymers, and Nonbinary Makeup Babes. Join in and #FitOut!",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/UghFacebookDown",
+            "name": "FacebookDown (@UghFacebookDown) / X",
+            "handle": "UghFacebookDown",
+            "bio": "FacebookDown @UghFacebookDown Oct 4, 2021 Facebook - We are “aware that some people are having trouble accessing Facebook app” #FacebookDown #GetOut 20 5 99",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/Ak_star27/status/2108401989940138115",
+            "name": "★AK★ on X: \"Tiktok and Facebook\" / X",
+            "handle": "Ak_star27",
+            "bio": "★AK★ on X: \"Tiktok and Facebook\" / X Tiktok and Facebook",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/facebook/status/1765077411639803995",
+            "name": "Facebook on X: \"And we're back So sorry for those who were ...",
+            "handle": "facebook",
+            "bio": "Jun 12, 2026 · And we're back 💙 So sorry for those who were unable to access Facebook earlier today.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/statusisdown/status/2078749872958648782",
+            "name": "Status Is DOWN on X: \"Facebook is reportedly down for ...",
+            "handle": "statusisdown",
+            "bio": "Jul 19, 2026 · Facebook is reportedly down for thousands of users currently. Are you one of them? #Facebook #FacebookDown #Meta Is Facebook down? [July 19, 2026]",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/company/facebook/",
+            "name": "Facebook - LinkedIn",
+            "handle": "company",
+            "bio": "The Facebook company is now Meta. Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/products/facebook",
+            "name": "Facebook - LinkedIn",
+            "handle": "products",
+            "bio": "Facebook helps you connect and share with the people you care about. From sharing life’s moments to discovering communities, we believe a little connection can go a long way.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://gb.linkedin.com/company/meta",
+            "name": "Meta - LinkedIn",
+            "handle": "company",
+            "bio": "Meta | 12,316,917 followers on LinkedIn. Meta's mission is to build the future of human connection and the technology that makes it possible. Our technologies help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://vn.linkedin.com/in/clipnong",
+            "name": "Clip nóng - Clip SEX, video clip XXX quay lén gái xinh mới ...Facebook: Jobs | LinkedInMeta - LinkedInLinkedIn Login, Sign in | LinkedIn",
+            "handle": "in",
+            "bio": "Clip SEX, video clip XXX quay lén gái xinh mới, clip HOT mỗi ngày trên facebook, Lộ clip nóng, Full link 18+ của sao Việt, học sinh Hồ Chí Minh 0948827384 · Kinh nghiệm: Clip nóng · Vị trí: Hanoi. Xem Clip nóng hồ sơ trên LinkedIn, một cộng đồng chuyên nghiệp gồm 1 tỷ thành viên. The Facebook company is now Meta. Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Login to LinkedIn to keep in touch with people you know, share ideas, and build your career.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "LinkedIn",
+            "platform_url": "https://www.linkedin.com/company/facebook/jobs",
+            "name": "Facebook: Jobs | LinkedIn",
+            "handle": "company",
+            "bio": "The Facebook company is now Meta. Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        }
+    ],
+    "mobile_apps": [
+        {
+            "store": "Google Play",
+            "app_name": "Facebook - Apps on Google PlayFacebook - Aplicaciones en Google PlayFacebook Lite - Apps on Google PlayFacebook - Apps no Google PlayFacebook – Applications sur Google PlayFacebook - Apps en Google PlayFacebook - App su Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en-US",
+            "app_id": "com.facebook.katana",
+            "developer": null,
+            "description": "Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network. Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... The Facebook Lite app is small, allowing you to save space on your phone and use Facebook in 2G conditions. Many of the classic features of Facebook are available on the app, such as sharing... Não importa se você está comprando acessórios usados, mostrando um reel para aquele grupo que entende você ou rindo junto por causa de imagens divertidas elaboradas pela IA: o Facebook ajuda a... Que ce soit pour vendre quelque chose, montrer un reel à un groupe de personnes qui vous comprennent ou partager des images drôles générées par l’IA, Facebook vous offre plus de fonctionnalités... Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini divertenti reinventate dall'IA, Facebook ti aiuta a far...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Facebook - Aplicaciones en Google PlayFacebook Lite - Apps on Google PlayFacebook - Apps no Google PlayFacebook – Applications sur Google PlayFacebook - Apps en Google PlayFacebook - App su Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=es",
+            "app_id": "com.facebook.katana",
+            "developer": null,
+            "description": "Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... The Facebook Lite app is small, allowing you to save space on your phone and use Facebook in 2G conditions. Many of the classic features of Facebook are available on the app, such as sharing... Não importa se você está comprando acessórios usados, mostrando um reel para aquele grupo que entende você ou rindo junto por causa de imagens divertidas elaboradas pela IA: o Facebook ajuda a... Que ce soit pour vendre quelque chose, montrer un reel à un groupe de personnes qui vous comprennent ou partager des images drôles générées par l’IA, Facebook vous offre plus de fonctionnalités... Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini divertenti reinventate dall'IA, Facebook ti aiuta a far...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Facebook Lite - Apps on Google PlayFacebook - Apps no Google PlayFacebook – Applications sur Google PlayFacebook - Apps en Google PlayFacebook - App su Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en-US",
+            "app_id": "com.facebook.lite",
+            "developer": null,
+            "description": "The Facebook Lite app is small, allowing you to save space on your phone and use Facebook in 2G conditions. Many of the classic features of Facebook are available on the app, such as sharing... Não importa se você está comprando acessórios usados, mostrando um reel para aquele grupo que entende você ou rindo junto por causa de imagens divertidas elaboradas pela IA: o Facebook ajuda a... Que ce soit pour vendre quelque chose, montrer un reel à un groupe de personnes qui vous comprennent ou partager des images drôles générées par l’IA, Facebook vous offre plus de fonctionnalités... Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini divertenti reinventate dall'IA, Facebook ti aiuta a far...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Facebook - Apps no Google PlayFacebook – Applications sur Google PlayFacebook - Apps en Google PlayFacebook - App su Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=pt-BR",
+            "app_id": "com.facebook.katana",
+            "developer": null,
+            "description": "Não importa se você está comprando acessórios usados, mostrando um reel para aquele grupo que entende você ou rindo junto por causa de imagens divertidas elaboradas pela IA: o Facebook ajuda a... Que ce soit pour vendre quelque chose, montrer un reel à un groupe de personnes qui vous comprennent ou partager des images drôles générées par l’IA, Facebook vous offre plus de fonctionnalités... Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini divertenti reinventate dall'IA, Facebook ti aiuta a far...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Facebook – Applications sur Google PlayFacebook - Apps en Google PlayFacebook - App su Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=fr",
+            "app_id": "com.facebook.katana",
+            "developer": null,
+            "description": "Que ce soit pour vendre quelque chose, montrer un reel à un groupe de personnes qui vous comprennent ou partager des images drôles générées par l’IA, Facebook vous offre plus de fonctionnalités... Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como... Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini divertenti reinventate dall'IA, Facebook ti aiuta a far...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Facebook - Apps en Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=es-419",
+            "app_id": "com.facebook.katana",
+            "developer": null,
+            "description": "Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Facebook - App su Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=it",
+            "app_id": "com.facebook.katana",
+            "developer": null,
+            "description": "Che tu sia alla ricerca di attrezzature usate, o stia mostrando un reel proprio al gruppo perfetto o condividendo risate su immagini divertenti reinventate dall'IA, Facebook ti aiuta a far...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Facebook App - App StoreFacebook App - App StoreFacebook App - App StoreFacebook App - App StoreFacebook》App - App StoreFacebook》App - App StoreMeta Platforms, Inc. for iPhone - App Store",
+            "store_url": "https://apps.apple.com/us/app/facebook/id284882215",
+            "app_id": "284882215",
+            "developer": null,
+            "description": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Facebook. Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips and more games like Facebook. Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips and more games like Facebook. 在 App Store 下载“Meta Platforms, Inc.”的“Facebook”。 查看截屏、评分及评论、用户提示以及更多类似“Facebook”的 App。 在 App Store 下載「Meta Platforms, Inc.」的《Facebook》。 查看螢幕截圖、評分與評論、用户貼士，以及更多類似《Facebook》的 App。 在 App Store 下載Meta Platforms, Inc.的《Facebook》。 查看截圖、評分與評論、使用者提示以及更多與《Facebook》類似的遊戲。 Download apps by Meta Platforms, Inc., including Facebook, Muse from Meta, Pocket: Make Gizmos, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Facebook App - App StoreFacebook App - App StoreFacebook App - App StoreFacebook》App - App StoreFacebook》App - App StoreMeta Platforms, Inc. for iPhone - App Store",
+            "store_url": "https://apps.apple.com/na/app/facebook/id284882215",
+            "app_id": "284882215",
+            "developer": null,
+            "description": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips and more games like Facebook. Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips and more games like Facebook. 在 App Store 下载“Meta Platforms, Inc.”的“Facebook”。 查看截屏、评分及评论、用户提示以及更多类似“Facebook”的 App。 在 App Store 下載「Meta Platforms, Inc.」的《Facebook》。 查看螢幕截圖、評分與評論、用户貼士，以及更多類似《Facebook》的 App。 在 App Store 下載Meta Platforms, Inc.的《Facebook》。 查看截圖、評分與評論、使用者提示以及更多與《Facebook》類似的遊戲。 Download apps by Meta Platforms, Inc., including Facebook, Muse from Meta, Pocket: Make Gizmos, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Facebook App - App StoreFacebook App - App StoreFacebook》App - App StoreFacebook》App - App StoreMeta Platforms, Inc. for iPhone - App Store",
+            "store_url": "https://apps.apple.com/ae/app/facebook/id284882215",
+            "app_id": "284882215",
+            "developer": null,
+            "description": "Download Facebook by Meta Platforms, Inc. on the App Store. See screenshots, ratings and reviews, user tips and more games like Facebook. 在 App Store 下载“Meta Platforms, Inc.”的“Facebook”。 查看截屏、评分及评论、用户提示以及更多类似“Facebook”的 App。 在 App Store 下載「Meta Platforms, Inc.」的《Facebook》。 查看螢幕截圖、評分與評論、用户貼士，以及更多類似《Facebook》的 App。 在 App Store 下載Meta Platforms, Inc.的《Facebook》。 查看截圖、評分與評論、使用者提示以及更多與《Facebook》類似的遊戲。 Download apps by Meta Platforms, Inc., including Facebook, Muse from Meta, Pocket: Make Gizmos, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Facebook App - App StoreFacebook》App - App StoreFacebook》App - App StoreMeta Platforms, Inc. for iPhone - App Store",
+            "store_url": "https://apps.apple.com/cn/app/facebook/id284882215",
+            "app_id": "284882215",
+            "developer": null,
+            "description": "在 App Store 下载“Meta Platforms, Inc.”的“Facebook”。 查看截屏、评分及评论、用户提示以及更多类似“Facebook”的 App。 在 App Store 下載「Meta Platforms, Inc.」的《Facebook》。 查看螢幕截圖、評分與評論、用户貼士，以及更多類似《Facebook》的 App。 在 App Store 下載Meta Platforms, Inc.的《Facebook》。 查看截圖、評分與評論、使用者提示以及更多與《Facebook》類似的遊戲。 Download apps by Meta Platforms, Inc., including Facebook, Muse from Meta, Pocket: Make Gizmos, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Facebook》App - App StoreFacebook》App - App StoreMeta Platforms, Inc. for iPhone - App Store",
+            "store_url": "https://apps.apple.com/hk/app/facebook/id284882215",
+            "app_id": "284882215",
+            "developer": null,
+            "description": "在 App Store 下載「Meta Platforms, Inc.」的《Facebook》。 查看螢幕截圖、評分與評論、用户貼士，以及更多類似《Facebook》的 App。 在 App Store 下載Meta Platforms, Inc.的《Facebook》。 查看截圖、評分與評論、使用者提示以及更多與《Facebook》類似的遊戲。 Download apps by Meta Platforms, Inc., including Facebook, Muse from Meta, Pocket: Make Gizmos, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Facebook》App - App Store",
+            "store_url": "https://apps.apple.com/tw/app/facebook/id284882215",
+            "app_id": "284882215",
+            "developer": null,
+            "description": "在 App Store 下載Meta Platforms, Inc.的《Facebook》。 查看截圖、評分與評論、使用者提示以及更多與《Facebook》類似的遊戲。",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Apple App Store",
+            "app_name": "Meta Platforms, Inc. for iPhone - App Store",
+            "store_url": "https://apps.apple.com/us/developer/meta-platforms-inc/id284882218",
+            "app_id": "284882218",
+            "developer": null,
+            "description": "Download apps by Meta Platforms, Inc., including Facebook, Muse from Meta, Pocket: Make Gizmos, and many more.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"facebook\" site:apps.apple.com",
+            "linked_from_reference_website": false
+        }
+    ],
+    "brand_identifiers": {
+        "primary_domain": "facebook.com",
+        "known_aliases": [],
+        "email_domains_found_on_website": [],
+        "known_publishers": [
+            "Verified Publisher Name"
+        ],
+        "known_social_handles": {
+            "Instagram": [
+                "official_handle"
+            ],
+            "X": [
+                "official_handle"
+            ]
+        },
+        "known_apps": [
+            {
+                "store": "Google Play",
+                "app_id": "verified.package.id",
+                "developer": "Verified Publisher Name"
+            },
+            {
+                "store": "Apple App Store",
+                "app_id": "123456789",
+                "developer": "Verified Publisher Name"
+            }
+        ],
+        "other_identifiers": []
+    },
+    "verification_evidence": {
+        "user_supplied_reference_domain": "facebook.com",
+        "discovered_domain_matches_reference": true,
+        "official_website_outbound_links_found": 0,
+        "note": "A user-supplied domain is a reference point, not independent proof. Cross-links are supporting evidence, not a guarantee."
+    },
+    "verification_note": "Search results and extracted assets are candidates, not confirmed official assets. Review and verify ownership before using them for threat detection.",
+    "logo_downloads": [],
+    "trust_assessment": {
+        "overall_status": "UNVERIFIED - REFERENCE DOMAIN REQUIRED",
+        "trusted_yes_or_no": "NO - NOT FULLY VERIFIED",
+        "trust_score": null,
+        "reason": "The script can check domain matches and official-site cross-links, but cannot independently prove legal ownership or that every downloaded logo/listing is authentic.",
+        "reference_domain": "facebook.com",
+        "website_domain_found": "facebook.com",
+        "website_fetch_status": "failed",
+        "logo_candidates_found": 0,
+        "social_candidates_found": 19,
+        "social_accounts_linked_from_reference_website": 0,
+        "app_candidates_found": 14,
+        "apps_linked_from_reference_website": 0,
+        "signals": [
+            {
+                "signal": "Website matches user-supplied reference domain",
+                "result": "MATCH",
+                "reference_domain": "facebook.com",
+                "note": "The reference domain must have been checked independently by the user."
+            },
+            {
+                "signal": "Website reachable and metadata extracted",
+                "result": "NOT_CONFIRMED"
+            },
+            {
+                "signal": "Logo source hosted on reference domain",
+                "result": "CHECK_PER_LOGO",
+                "details": []
+            },
+            {
+                "signal": "Social accounts cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 19
+            },
+            {
+                "signal": "App store listings cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 14
+            },
+            {
+                "signal": "Legal ownership / publisher identity independently verified",
+                "result": "NOT_CHECKED"
+            }
+        ],
+        "recommended_checks": [
+            "Enter only a domain independently confirmed from company-owned documentation, official packaging, or trusted corporate records.",
+            "Review every logo file and confirm it matches the logo on the confirmed website.",
+            "Treat social/app links published on the reference website as supporting evidence and verify the exact profile or listing.",
+            "Check app publisher identity and developer links in the official app store listing.",
+            "Do not label an asset fully trusted until a human reviewer records the evidence and approves it."
+        ]
+    },
+    "output_folder": "D:\\Hack\\hack\\backend\\facebook_brand_profile"
+}

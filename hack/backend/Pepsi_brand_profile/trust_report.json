@@ -1,0 +1,54 @@
+{
+    "overall_status": "PARTIALLY_VERIFIED - ASSETS STILL NEED REVIEW",
+    "trusted_yes_or_no": "NO - NOT FULLY VERIFIED",
+    "trust_score": null,
+    "reason": "The script can check domain matches and official-site cross-links, but cannot independently prove legal ownership or that every downloaded logo/listing is authentic.",
+    "reference_domain": "pepsi.com",
+    "website_domain_found": "pepsi.com",
+    "website_fetch_status": "success",
+    "logo_candidates_found": 0,
+    "social_candidates_found": 7,
+    "social_accounts_linked_from_reference_website": 0,
+    "app_candidates_found": 7,
+    "apps_linked_from_reference_website": 0,
+    "signals": [
+        {
+            "signal": "Website matches user-supplied reference domain",
+            "result": "MATCH",
+            "reference_domain": "pepsi.com",
+            "note": "The reference domain must have been checked independently by the user."
+        },
+        {
+            "signal": "Website reachable and metadata extracted",
+            "result": "PASS"
+        },
+        {
+            "signal": "Logo source hosted on reference domain",
+            "result": "CHECK_PER_LOGO",
+            "details": []
+        },
+        {
+            "signal": "Social accounts cross-linked from reference website",
+            "result": "PARTIAL_SUPPORT",
+            "matched_count": 0,
+            "total_candidates": 7
+        },
+        {
+            "signal": "App store listings cross-linked from reference website",
+            "result": "PARTIAL_SUPPORT",
+            "matched_count": 0,
+            "total_candidates": 7
+        },
+        {
+            "signal": "Legal ownership / publisher identity independently verified",
+            "result": "NOT_CHECKED"
+        }
+    ],
+    "recommended_checks": [
+        "Enter only a domain independently confirmed from company-owned documentation, official packaging, or trusted corporate records.",
+        "Review every logo file and confirm it matches the logo on the confirmed website.",
+        "Treat social/app links published on the reference website as supporting evidence and verify the exact profile or listing.",
+        "Check app publisher identity and developer links in the official app store listing.",
+        "Do not label an asset fully trusted until a human reviewer records the evidence and approves it."
+    ]
+}

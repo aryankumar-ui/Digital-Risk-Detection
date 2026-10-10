@@ -1,0 +1,313 @@
+{
+    "brand_name": "microsoft",
+    "official_website": {
+        "url": "https://www.microsoft.com/",
+        "domain": "microsoft.com",
+        "title": "Microsoft - AI, Cloud, Productivity, Computing, Gaming & Apps",
+        "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+        "verification_status": "user_supplied_reference_domain"
+    },
+    "official_logo": {
+        "logo_candidates": [
+            {
+                "image_url": "https://www.microsoft.com/favicon.ico?v2",
+                "verification_status": "unverified_candidate"
+            }
+        ],
+        "verification_status": "unverified_candidate"
+    },
+    "website_metadata": {
+        "title": "Your request has been blocked. This could be\r\n                        due to several reasons.",
+        "description": null,
+        "fetch_status": "success"
+    },
+    "social_accounts": [
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/Microsoft",
+            "name": "Microsoft (@Microsoft) / X",
+            "handle": "Microsoft",
+            "bio": "Testing and evaluation is how serious science moves forward. Microsoft’s topological quantum system is now on site in Maryland, where DARPA will put the hardware through its paces. Here’s why that matters for the path to quantum at scale: msft.it/6002a9E7a",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/MSCloud",
+            "name": "Microsoft Cloud (@MSCloud) / X",
+            "handle": "MSCloud",
+            "bio": "@ AMD and Microsoft are working together to support the ecosystem behind AI innovation, giving developers more room to experiment across new models, platforms, capabilities, and tools.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://about.x.com/en",
+            "name": "About X | Our company and priorities",
+            "handle": "en",
+            "bio": "We serve the public conversation. Learn more about X the company, and how we ensure people have a free and safe place to talk.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://analytics.twitter.com/i/adsct?p_id=Twitter",
+            "name": "Twitter Analytics",
+            "handle": "i",
+            "bio": "Twitter Analytics",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "X",
+            "platform_url": "https://x.com/MicrosoftHelps",
+            "name": "Microsoft Support (@MicrosoftHelps) / X",
+            "handle": "MicrosoftHelps",
+            "bio": "Sep 20, 2009 · The official account of Microsoft Customer Service & Support; YouTube: https://t.co/c3H7DRI9rL│Support community: https://t.co/iJ33w2eGkt",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "YouTube",
+            "platform_url": "https://www.youtube.com/Microsoft",
+            "name": "Microsoft - YouTube",
+            "handle": "Microsoft",
+            "bio": "Our mission is to empower every person and every organization on the planet to achieve more.Subscribe to Microsoft's official YouTube channel to explore tech...",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "YouTube",
+            "platform_url": "https://www.youtube.com/feed//trending",
+            "name": "Home - YouTube",
+            "handle": "feed",
+            "bio": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "YouTube",
+            "platform_url": "https://www.youtube.com/c/MicrosoftCustomerSupport",
+            "name": "Microsoft Helps - YouTube",
+            "handle": "c",
+            "bio": "How to install Microsoft 365 apps on Windows and Mac | Microsoft Microsoft Helps 7.4K 2mo ago CC",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "YouTube",
+            "platform_url": "https://www.youtube.com/@Microsoft365",
+            "name": "Microsoft Copilot - YouTube",
+            "handle": "@Microsoft365",
+            "bio": "Microsoft Copilot Got a Major Upgrade 🚀 These features are coming to Frontier soon #MicrosoftPartner Kevin Stratvert and Microsoft Copilot 22K 4d ago 0:29",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        },
+        {
+            "platform": "YouTube",
+            "platform_url": "https://www.youtube.com/feed",
+            "name": "YouTube",
+            "handle": "feed",
+            "bio": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket © 2026 Google LLC",
+            "is_verified": null,
+            "verification_status": "unverified_candidate",
+            "linked_from_reference_website": false
+        }
+    ],
+    "mobile_apps": [
+        {
+            "store": "Google Play",
+            "app_name": "Microsoft Rewards - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.microsoft.bing&listing=rewards&hl=en-US",
+            "app_id": "com.microsoft.bing",
+            "developer": null,
+            "description": "Turn everyday search and activity into real rewards with Microsoft Rewards. Earn points through Bing search and simple daily activities like quizzes, tasks, and polls, helping you build...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Microsoft Outlook - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en-US",
+            "app_id": "com.microsoft.office.outlook",
+            "developer": null,
+            "description": "1 day ago · Outlook is free for personal use and supports Microsoft Exchange, Microsoft 365, Outlook.com, Gmail, Yahoo Mail, iCloud, IMAP and POP3. Write polished emails with built in tools for grammar,...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Android Apps by Microsoft Corporation on Google Play",
+            "store_url": "https://play.google.com/store/apps/developer?id=Microsoft+Corporation&hl=en-US",
+            "app_id": "Microsoft Corporation",
+            "developer": null,
+            "description": "Microsoft Word: Edit Documents Microsoft Corporation 4.8star Microsoft Edge Microsoft Corporation 4.7star Microsoft Excel: Spreadsheets",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Microsoft Teams - Apps on Google PlayMSN - Apps on Google PlayAndroid Apps by Microsoft Corporation on Google PlayMicrosoft Bing Search - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en-US",
+            "app_id": "com.microsoft.teams",
+            "developer": null,
+            "description": "Whether you’re connecting with your community for an upcoming activity or working with teammates on a project, Microsoft Teams helps bring people together so that they can get things done. Ratings and reviews What’s new Microsoft Start is now MSN, same great experience and personalized content feed . Apps from Microsoft - the worldwide leader in software, services and devices that help people and businesses realize their full potential. Microsoft Bing delivers fast, intelligently curated answers and makes it easier than ever to discover more. Introducing Copilot Search in Bing Copilot Search in Bing brings AI to search where...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "MSN - Apps on Google PlayAndroid Apps by Microsoft Corporation on Google PlayMicrosoft Bing Search - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.microsoft.amp.apps.bingnews&hl=en-US",
+            "app_id": "com.microsoft.amp.apps.bingnews",
+            "developer": null,
+            "description": "Ratings and reviews What’s new Microsoft Start is now MSN, same great experience and personalized content feed . Apps from Microsoft - the worldwide leader in software, services and devices that help people and businesses realize their full potential. Microsoft Bing delivers fast, intelligently curated answers and makes it easier than ever to discover more. Introducing Copilot Search in Bing Copilot Search in Bing brings AI to search where...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Android Apps by Microsoft Corporation on Google Play",
+            "store_url": "https://play.google.com/store/apps/dev?id=6720847872553662727&hl=en-US",
+            "app_id": "6720847872553662727",
+            "developer": null,
+            "description": "Apps from Microsoft - the worldwide leader in software, services and devices that help people and businesses realize their full potential.",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        },
+        {
+            "store": "Google Play",
+            "app_name": "Microsoft Bing Search - Apps on Google Play",
+            "store_url": "https://play.google.com/store/apps/details?id=com.microsoft.bing&listing=continuesearching&hl=en-US",
+            "app_id": "com.microsoft.bing",
+            "developer": null,
+            "description": "Microsoft Bing delivers fast, intelligently curated answers and makes it easier than ever to discover more. Introducing Copilot Search in Bing Copilot Search in Bing brings AI to search where...",
+            "verification_status": "unverified_candidate",
+            "discovery_query": "\"microsoft\" site:play.google.com/store/apps",
+            "linked_from_reference_website": false
+        }
+    ],
+    "brand_identifiers": {
+        "primary_domain": "microsoft.com",
+        "known_aliases": [],
+        "email_domains_found_on_website": [],
+        "known_publishers": [
+            "Verified Publisher Name"
+        ],
+        "known_social_handles": {
+            "Instagram": [
+                "official_handle"
+            ],
+            "X": [
+                "official_handle"
+            ]
+        },
+        "known_apps": [
+            {
+                "store": "Google Play",
+                "app_id": "verified.package.id",
+                "developer": "Verified Publisher Name"
+            },
+            {
+                "store": "Apple App Store",
+                "app_id": "123456789",
+                "developer": "Verified Publisher Name"
+            }
+        ],
+        "other_identifiers": []
+    },
+    "verification_evidence": {
+        "user_supplied_reference_domain": "microsoft.com",
+        "discovered_domain_matches_reference": true,
+        "official_website_outbound_links_found": 0,
+        "note": "A user-supplied domain is a reference point, not independent proof. Cross-links are supporting evidence, not a guarantee."
+    },
+    "verification_note": "Search results and extracted assets are candidates, not confirmed official assets. Review and verify ownership before using them for threat detection.",
+    "logo_downloads": [
+        {
+            "source_url": "https://www.microsoft.com/favicon.ico?v2",
+            "download_status": "downloaded",
+            "verification_status": "unverified_candidate",
+            "saved_path": "D:\\Hack\\hack\\backend\\microsoft_brand_profile\\logos\\logo_01.ico",
+            "content_type": "image/vnd.microsoft.icon",
+            "bytes": 17174
+        }
+    ],
+    "trust_assessment": {
+        "overall_status": "PARTIALLY_VERIFIED - ASSETS STILL NEED REVIEW",
+        "trusted_yes_or_no": "NO - NOT FULLY VERIFIED",
+        "trust_score": null,
+        "reason": "The script can check domain matches and official-site cross-links, but cannot independently prove legal ownership or that every downloaded logo/listing is authentic.",
+        "reference_domain": "microsoft.com",
+        "website_domain_found": "microsoft.com",
+        "website_fetch_status": "success",
+        "logo_candidates_found": 1,
+        "social_candidates_found": 10,
+        "social_accounts_linked_from_reference_website": 0,
+        "app_candidates_found": 7,
+        "apps_linked_from_reference_website": 0,
+        "signals": [
+            {
+                "signal": "Website matches user-supplied reference domain",
+                "result": "MATCH",
+                "reference_domain": "microsoft.com",
+                "note": "The reference domain must have been checked independently by the user."
+            },
+            {
+                "signal": "Website reachable and metadata extracted",
+                "result": "PASS"
+            },
+            {
+                "signal": "Logo source hosted on reference domain",
+                "result": "CHECK_PER_LOGO",
+                "details": [
+                    {
+                        "image_url": "https://www.microsoft.com/favicon.ico?v2",
+                        "source_domain": "microsoft.com",
+                        "source_domain_matches_reference": true,
+                        "content_authenticity": "NOT_PROVEN"
+                    }
+                ]
+            },
+            {
+                "signal": "Social accounts cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 10
+            },
+            {
+                "signal": "App store listings cross-linked from reference website",
+                "result": "PARTIAL_SUPPORT",
+                "matched_count": 0,
+                "total_candidates": 7
+            },
+            {
+                "signal": "Legal ownership / publisher identity independently verified",
+                "result": "NOT_CHECKED"
+            }
+        ],
+        "recommended_checks": [
+            "Enter only a domain independently confirmed from company-owned documentation, official packaging, or trusted corporate records.",
+            "Review every logo file and confirm it matches the logo on the confirmed website.",
+            "Treat social/app links published on the reference website as supporting evidence and verify the exact profile or listing.",
+            "Check app publisher identity and developer links in the official app store listing.",
+            "Do not label an asset fully trusted until a human reviewer records the evidence and approves it."
+        ]
+    },
+    "output_folder": "D:\\Hack\\hack\\backend\\microsoft_brand_profile"
+}
