@@ -5,3 +5,5 @@ beautifulsoup4
 duckduckgo-search
 pydantic
 starlette
+google-genai
+python-dotenv
